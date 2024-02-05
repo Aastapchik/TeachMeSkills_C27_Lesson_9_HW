@@ -7,4 +7,4 @@ The program allows you to make transfers between cards of different payment syst
 The second task allows you to multiply two matrices
 
 
-The folder src_figure contains a task with shapes with a class with a modifier Sealed
+The third task with shapes with a class with a modifier Sealed
